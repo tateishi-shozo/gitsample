@@ -1,3 +1,3 @@
 func a
 func c
-func d
+func d修正
